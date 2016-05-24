@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00a57883-606a-4812-9a81-756f8cacd86e" name="172.16.0.247" url="http://172.16.0.247">
+        <fileTransfer host="172.16.0.247" port="22" rootFolder="/data/markdown" accessType="SFTP" password="dfd9dfc3dfc2dfdfdfcbdfccdfdf" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
